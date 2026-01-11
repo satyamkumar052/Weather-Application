@@ -33,3 +33,7 @@ npm install
 
 # Run the Project
 npm run dev
+
+Project link = https://weather-app-wyq1.onrender.com
+
+<img width="791" height="1036" alt="image" src="https://github.com/user-attachments/assets/f40f55cf-d907-4182-bb63-9aeff5e4d31f" />

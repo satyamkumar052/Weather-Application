@@ -17,10 +17,10 @@ Clean and interactive UI built with React
 
 # Tech Stack
 
-React
-OpenWeather API
-CSS 
-MaterialUI
+- React
+- OpenWeather API
+- CSS 
+- MaterialUI
 
 # Getting Started
 Prerequisites
